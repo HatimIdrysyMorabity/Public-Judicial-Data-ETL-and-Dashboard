@@ -10,6 +10,6 @@ This project automates the extraction, transformation, loading, and visualizatio
 
 ## ETL Overview
 1. **Extraction**: Download Excel files from [data.gov.ma](https://data.gov.ma).
-2. **Transformation**: Clean and normalize the data in Python/Excel and load into SQL Server.
+2. **Transformation**: Clean and normalize the data in Excel and load into SQL Server.
 3. **Loading**: Use SSMS to load the data into a star-schema structured database.
 4. **Visualization**: Design interactive dashboards in Power BI.
